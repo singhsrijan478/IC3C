@@ -333,3 +333,43 @@ body {
   font-weight: 700;
   font-size: 0.9rem;
 }
+
+/* Contact Us Section */
+.contact-section {
+  background-color: #a21caf; /* Solid purple matching your primary buttons */
+  color: #ffffff;
+  text-align: center;
+}
+
+.contact-section .section-title.text-white {
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+
+.contact-info {
+  background: rgba(255, 255, 255, 0.1); /* Subtle transparent white box */
+  padding: 32px 48px;
+  border-radius: 12px;
+  display: inline-block;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.contact-role {
+  font-size: 1rem;
+  margin-bottom: 16px;
+  color: #f3e8ff; /* Very light purple/white to contrast the main text */
+}
+
+.professor-name {
+  font-size: 1.6rem;
+  font-weight: 800;
+  margin-bottom: 12px;
+  color: #ffffff;
+}
+
+.contact-detail {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #ffffff;
+}
